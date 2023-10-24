@@ -50,6 +50,6 @@ The project identifies areas for improvement and future development, including s
 
 ---
 
-For more details, please refer to the complete [Report](Report/NUPD%20Crime%20Data%20Analysis-%20Report%20(1).pdf)
+For more details, please refer to the complete [Report](Report/NUPD%20Crime%20Data%20Analysis-%20Report.pdf)
 
 For inquiries and contributions, contact Aman Maheshwari and Saloni Bhutada.
